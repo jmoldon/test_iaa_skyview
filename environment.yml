@@ -1,0 +1,10 @@
+name: iaa_skyview
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - aplpy
+  - astropy
+  - astroquery
+  - jupyterlab
+  - matplotlib
